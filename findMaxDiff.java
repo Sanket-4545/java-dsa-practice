@@ -9,6 +9,6 @@ public class findMaxDiff {
                 }
             }
         }
-        System.out.println(max);
+         System.out.println(max);
     }
 }
